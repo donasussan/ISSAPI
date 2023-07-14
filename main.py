@@ -2,7 +2,7 @@ import requests
 import smtplib
 import datetime
 
-password_ = "bnsiayfabqvshjwk"
+password_ = ""
 my_lat = 10.3528744
 
 my_long = 76.5120396
